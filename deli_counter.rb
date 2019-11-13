@@ -8,5 +8,3 @@ def line(array)
     array.each_with_index(1) do |name,index|
       line_array.push("#")
 end
-
-end
